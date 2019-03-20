@@ -16,5 +16,12 @@
   "bugs": {
     "url": "https://github.com/fengshiqi1998/grunt-advanced-demo/issues"
   },
-  "homepage": "https://github.com/fengshiqi1998/grunt-advanced-demo#readme"
+  "homepage": "https://github.com/fengshiqi1998/grunt-advanced-demo#readme",
+  "dependencies": {
+    "grunt-contrib-less": "^2.0.0"
+  },
+  "devDependencies": {
+    "grunt": "^1.0.3",
+    "grunt-htmlhint": "^0.9.13"
+  }
 }
